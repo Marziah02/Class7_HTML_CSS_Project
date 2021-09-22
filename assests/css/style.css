@@ -1,0 +1,54 @@
+/* part1-background image */
+#header{
+  background-image: url("../images/blue-sapphire.jpg");
+  width: 100%;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+#header h2{
+  color: #203082;
+  padding-top: 95px;
+  padding-left: 60px;
+  padding-bottom: 5px;
+  font-size: 50px;
+}
+/* part1 */
+ #bodyH h2{
+   text-align: center;
+   margin: 30px;
+ }
+
+ /* part2-background-image, background-attachment,background-position,background-repeat */
+ #bodyP{
+   background-image: url(../images/body_b.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+   height: 600px;
+   background-position: center;
+   background-attachment: fixed;
+  }
+
+  #bodyP p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 20px;
+  }
+  /* part2 */
+
+  /* part3-backgroud */
+ #bg{
+   background: #203082;
+   height: 80px;
+ } 
+ #bg h3{
+   text-align: center;
+   color: white;
+   padding: 30px;
+ }
+ /* part3 */
+   
+ 
